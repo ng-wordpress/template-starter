@@ -1,7 +1,16 @@
 {
-  "name": "ng-wordpress-template-starter",
+  "name": "@ng-wordpress/template-starter",
   "version": "0.0.0",
   "license": "MIT",
+  "author": "Andre Steudel <kontakt@andre-steudel.de>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ng-wordpress/template-starter.git"
+  },
+  "bugs": {
+      "url": "https://github.com/ng-wordpress/template-starter/issues"
+  },
+  "homepage": "https://github.com/ng-wordpress/template-starter",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
