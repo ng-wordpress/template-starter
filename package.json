@@ -5,11 +5,11 @@
   "description": "A skeleton for an Angular Wordpress Theme",
   "author": "Andre Steudel <kontakt@andre-steudel.de>",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/ng-wordpress/template-starter.git"
+    "type": "git",
+    "url": "https://github.com/ng-wordpress/template-starter.git"
   },
   "bugs": {
-      "url": "https://github.com/ng-wordpress/template-starter/issues"
+    "url": "https://github.com/ng-wordpress/template-starter/issues"
   },
   "homepage": "https://github.com/ng-wordpress/template-starter",
   "scripts": {
@@ -31,6 +31,7 @@
     "@angular/platform-browser": "^5.2.0",
     "@angular/platform-browser-dynamic": "^5.2.0",
     "@angular/router": "^5.2.0",
+    "@ng-wordpress/api": "0.0.1",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
