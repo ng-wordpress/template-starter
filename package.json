@@ -2,6 +2,7 @@
   "name": "@ng-wordpress/template-starter",
   "version": "0.0.0",
   "license": "MIT",
+  "description": "A skeleton for an Angular Wordpress Theme",
   "author": "Andre Steudel <kontakt@andre-steudel.de>",
   "repository": {
       "type": "git",
