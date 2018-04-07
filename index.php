@@ -13,6 +13,7 @@
 </head>
 <body>
 <app-root>Loading...</app-root>
+<script>var siteUrl = '<?php echo get_site_url(); ?>/';</script>
 <?php wp_footer(); ?>
 </body>
 </html>
